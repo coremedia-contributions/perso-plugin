@@ -1,4 +1,4 @@
-# CoreMedia Perso Studio Plugin
+# CoreMedia Native Personalization Plugin
 
 ![GitHub release downloads](https://img.shields.io/github/downloads/coremedia-contributions/perso-plugin/latest/total)
 ![GitHub latest release](https://img.shields.io/github/v/release/coremedia-contributions/perso-plugin)
